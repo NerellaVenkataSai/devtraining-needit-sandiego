@@ -3,6 +3,7 @@
         <element choice="1" choice_field="initiative" choice_table="x_58872_needit_initiatives" label="Initiative" max_length="40" name="initiative" type="choice">
             <choice>
                 <element inactive_on_update="false" label="green" value="green"/>
+                <element inactive_on_update="false" label="red" value="red"/>
             </choice>
         </element>
     </element>
