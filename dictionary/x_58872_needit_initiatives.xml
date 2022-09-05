@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Initiatives" max_length="40" name="x_58872_needit_initiatives" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
         <element choice="1" choice_field="initiative" choice_table="x_58872_needit_initiatives" label="Initiative" max_length="40" name="initiative" type="choice">
             <choice>
                 <element inactive_on_update="false" label="green" value="green"/>
