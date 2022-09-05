@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Initiatives" max_length="40" name="x_58872_needit_initiatives" type="collection">
+        <element choice="1" label="Initiative" max_length="40" name="initiative" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
