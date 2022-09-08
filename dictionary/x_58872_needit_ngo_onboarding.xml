@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element max_length="40" name="x_58872_needit_ngo_onboarding" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Contact" max_length="40" name="contact" type="integer"/>
+        <element label="Email Address" max_length="40" name="email_address" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Projects" max_length="4000" name="projects" type="glide_list"/>
+    </element>
+</database>
