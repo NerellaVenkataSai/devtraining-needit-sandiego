@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e6d27f274f311110049c417218c71441" extends="task" label="CsrTest" max_length="40" name="x_58872_needit_csrtest" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+    </element>
+</database>
